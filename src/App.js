@@ -1,5 +1,11 @@
+import Posts from "./components/Post";
+
 const App = () => {
-  return <></>;
+  return (
+    <>
+      <Posts />
+    </>
+  );
 };
 
 export default App;
